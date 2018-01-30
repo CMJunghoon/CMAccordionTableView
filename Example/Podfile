@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CMAccordionTableView_Example' do
+  pod 'CMAccordionTableView', :path => '../'
+
+  target 'CMAccordionTableView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
