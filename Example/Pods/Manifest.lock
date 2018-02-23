@@ -1,0 +1,16 @@
+PODS:
+  - CMAccordionTableView (0.1.0)
+
+DEPENDENCIES:
+  - CMAccordionTableView (from `../`)
+
+EXTERNAL SOURCES:
+  CMAccordionTableView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CMAccordionTableView: 5f46f23fbd05e685858c5dd9e3bc0f692cb591e2
+
+PODFILE CHECKSUM: c6f448138399633879ed3daf4ae87b2cc5a9ccc4
+
+COCOAPODS: 1.4.0

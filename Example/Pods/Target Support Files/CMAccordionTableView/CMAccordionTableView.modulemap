@@ -1,0 +1,6 @@
+framework module CMAccordionTableView {
+  umbrella header "CMAccordionTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}
